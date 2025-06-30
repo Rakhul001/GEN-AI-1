@@ -1,0 +1,4 @@
+pip install streamlit requests 
+python -m streamlit --version
+python -c "import os; print(os.listdir())"
+python -m streamlit run "C:\Users\sreer\Downloads\hashtagaigenerator.py"
