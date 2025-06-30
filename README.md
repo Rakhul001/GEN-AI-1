@@ -91,7 +91,17 @@ if st.button("✨ Generate Hashtags (AI)", type="primary"):
 st.markdown("---")
 st.caption("Made with ❤️ by you | Powered by Streamlit & Hugging Face")
 
-![Screenshot 2025-06-30 212723](https://github.com/user-attachments/assets/c49c51f4-6ee9-4a14-ad9f-2dc7f2a933b0)
-![Screenshot 2025-06-30 212652](https://github.com/user-attachments/assets/415cf3f6-01eb-4ffd-9cda-ae2d132cc25d)
-![Screenshot 2025-06-30 212636](https://github.com/user-attachments/assets/765be69b-4229-4c47-8424-93eeb205a435)
-![Screenshot 2025-06-30 212625](https://github.com/user-attachments/assets/8fdabe54-d810-4c14-a7dc-3585c223cf25)
+SCREENSHOTS:
+
+INTERFACE:
+![Screenshot 2025-06-30 212625](https://github.com/user-attachments/assets/b985f7e7-1cbb-4d63-9738-65a729ea97da)
+
+
+
+![Screenshot 2025-06-30 212636](https://github.com/user-attachments/assets/86e17e95-2dda-4356-89c0-4799f30327bb)
+
+GNERATED HASTAGS:
+![Screenshot 2025-06-30 212706](https://github.com/user-attachments/assets/677c4bea-28b7-4153-8c42-405043873802)
+
+DOWNLOADED HASHTAGS:-
+![Screenshot 2025-06-30 212723](https://github.com/user-attachments/assets/728ed431-dd25-4659-b739-c9bce79b13e1)
